@@ -1,0 +1,6 @@
+{
+  "name": "PHC Voice Scribe",
+  "description": "Offline-capable clinical voice-to-EMR workstation for Primary Health Centre Medical Officers with Hinglish speech structuring, UP/Bihar/NHM government case sheets, ABDM/FHIR R4 bundles, and bilingual visual patient prescriptions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

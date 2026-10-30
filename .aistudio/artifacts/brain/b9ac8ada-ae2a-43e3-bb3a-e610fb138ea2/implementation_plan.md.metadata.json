@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive implementation plan for PHC Voice Scribe featuring live microphone & Hinglish clinical scenario voice capture, hybrid Gemini AI + offline rule-based medical NLP, UP/Bihar/NHM government templates (Case Sheet, Prescription, Referral), bilingual visual patient instruction strips with SVG timing icons, ABDM/FHIR R4 bundle + QR generation, custom doctor shortcuts/fine-tuning log, and offline sync queue & clinical metrics dashboard.",
+  "updatedAt":  "2026-10-30T04:50:01.519211249Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
